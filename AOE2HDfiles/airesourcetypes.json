@@ -1,0 +1,212 @@
+{
+  "ResourceTypes":[
+    {
+      "Resource": "Food",
+      "Types":[
+        {
+          "Name": "Forage Bush",
+          "ID" : 59
+        },
+        {
+          "Name": "Fruit Bush",
+          "ID" : 1059
+        },
+        {
+          "Name": "Wild Boar",
+          "ID" : 48
+        },
+        {
+          "Name": "Javelina",
+          "ID" : 822
+        },
+        {
+          "Name": "Rhino",
+          "ID" : 1139
+        },
+        {
+          "Name": "Wild Elephant",
+          "ID" : 1301
+        },
+        {
+          "Name": "Deer",
+          "ID" : 65
+        },
+        {
+          "Name": "Zebra",
+          "ID" : 1019
+        },
+        {
+          "Name": "Ostrich",
+          "ID" : 1026
+        },
+        {
+          "Name": "Ibex",
+          "ID" : 1239
+        },
+        {
+          "Name": "Gazelle",
+          "ID" : 1796
+        },
+        {
+          "Name": "Fish",
+          "ID" : 53
+        },
+		        {
+          "Name": "Fish",
+          "ID" : 61
+        },
+		        {
+          "Name": "Fish",
+          "ID" : 69
+        },
+        {
+          "Name": "Fish",
+          "ID" : 450
+        },
+        {
+          "Name": "Fish",
+          "ID" : 451
+        },
+        {
+          "Name": "Fish",
+          "ID" : 455
+        },
+        {
+          "Name": "Fish",
+          "ID" : 456
+        },
+        {
+          "Name": "Fish",
+          "ID" : 457
+        },
+        {
+          "Name": "Fish",
+          "ID" : 458
+        },
+        {
+          "Name": "Fish",
+          "ID" : 1141
+        },		
+        {
+          "Name": "Farm",
+          "ID" : 50
+        },
+        {
+          "Name": "Rice Farm",
+          "ID" : 1187
+        },
+        {
+          "Name": "Wild Elephant (legacy)",
+          "ID" : 936
+        }
+      ]
+    },
+    {
+      "Resource": "Wood",
+      "Types":[
+        {
+          "Name": "Tree",
+          "ID" : 284
+        },
+        {
+          "Name": "Tree",
+          "ID" : 348
+        },
+        {
+          "Name": "Tree",
+          "ID" : 349
+        },
+        {
+          "Name": "Tree",
+          "ID" : 350
+        },
+        {
+          "Name": "Tree",
+          "ID" : 351
+        },
+        {
+          "Name": "Tree",
+          "ID" : 399
+        },
+        {
+          "Name": "Tree",
+          "ID" : 400
+        },
+        {
+          "Name": "Tree",
+          "ID" : 401
+        },
+        {
+          "Name": "Tree",
+          "ID" : 402
+        },
+        {
+          "Name": "Tree",
+          "ID" : 403
+        },
+        {
+          "Name": "Tree",
+          "ID" : 404
+        },
+        {
+          "Name": "Tree",
+          "ID" : 405
+        },
+        {
+          "Name": "Tree",
+          "ID" : 406
+        },
+        {
+          "Name": "Tree",
+          "ID" : 407
+        },
+        {
+          "Name": "Tree",
+          "ID" : 408
+        },
+        {
+          "Name": "Tree",
+          "ID" : 409
+        },
+        {
+          "Name": "Tree",
+          "ID" : 410
+        },
+        {
+          "Name": "Tree",
+          "ID" : 411
+        },
+        {
+          "Name": "Tree",
+          "ID" : 412
+        },
+        {
+          "Name": "Tree",
+          "ID" : 413
+        },
+        {
+          "Name": "Tree",
+          "ID" : 414
+        }
+      ]
+    },
+    {
+      "Resource": "Stone",
+      "Types":[
+        {
+          "Name": "Stone Mine",
+          "ID" : 102
+        }
+      ]
+    },
+    {
+      "Resource": "Gold",
+      "Types":[
+        {
+          "Name": "Gold Mine",
+          "ID" : 66
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1639 @@
+{
+  "Cavalry": [
+  {
+    "Name": "UnknownUnit37",
+    "ID": 37
+  },
+  {
+    "Name": "Knight",
+    "ID": 38
+  },
+  {
+    "Name": "Cataphract",
+    "ID": 40
+  },
+  {
+    "Name": "Richard the Lionheart",
+    "ID": 160
+  },
+  {
+    "Name": "The Black Prince",
+    "ID": 161
+  },
+  {
+    "Name": "Roland",
+    "ID": 166
+  },
+  {
+    "Name": "Belisarius",
+    "ID": 167
+  },
+  {
+    "Name": "Lancelot",
+    "ID": 174
+  },
+  {
+    "Name": "Gawain",
+    "ID": 175
+  },
+  {
+    "Name": "Mordred",
+    "ID": 176
+  },
+  {
+    "Name": "Vlad Dracula",
+    "ID": 193
+  },
+  {
+    "Name": "Alexander Nevski",
+    "ID": 197
+  },
+  {
+    "Name": "Imperial Camel Rider",
+    "ID": 207
+  },
+  {
+    "Name": "Alaric the Goth",
+    "ID": 223
+  },
+  {
+    "Name": "War Elephant",
+    "ID": 239
+  },
+  {
+    "Name": "Imperial Centurion",
+    "ID": 275
+  },
+  {
+    "Name": "Mameluke",
+    "ID": 282
+  },
+  {
+    "Name": "Cavalier",
+    "ID": 283
+  },
+  {
+    "Name": "Camel Rider",
+    "ID": 329
+  },
+  {
+    "Name": "Heavy Camel Rider",
+    "ID": 330
+  },
+  {
+    "Name": "Henry the Lion",
+    "ID": 418
+  },
+  {
+    "Name": "Hussar",
+    "ID": 441
+  },
+  {
+    "Name": "Scout Cavalry",
+    "ID": 448
+  },
+  {
+    "Name": "Light Cavalry",
+    "ID": 546
+  },
+  {
+    "Name": "Elite Cataphract",
+    "ID": 553
+  },
+  {
+    "Name": "Elite Mameluke",
+    "ID": 556
+  },
+  {
+    "Name": "Elite War Elephant",
+    "ID": 558
+  },
+  {
+    "Name": "Paladin",
+    "ID": 569
+  },
+  {
+    "Name": "UnknownUnit575",
+    "ID": 575
+  },
+  {
+    "Name": "UnknownUnit577",
+    "ID": 577
+  },
+  {
+    "Name": "Joan of Arc",
+    "ID": 629
+  },
+  {
+    "Name": "Frankish Paladin",
+    "ID": 632
+  },
+  {
+    "Name": "Sieur de Metz",
+    "ID": 634
+  },
+  {
+    "Name": "Sieur Bertrand",
+    "ID": 636
+  },
+  {
+    "Name": "Duke D'Alençon",
+    "ID": 638
+  },
+  {
+    "Name": "Constable Richemont",
+    "ID": 646
+  },
+  {
+    "Name": "Guy Josselyne",
+    "ID": 648
+  },
+  {
+    "Name": "Sir John Fastolf",
+    "ID": 652
+  },
+  {
+    "Name": "Reynald de Chatillon",
+    "ID": 678
+  },
+  {
+    "Name": "Master of the Templar",
+    "ID": 680
+  },
+  {
+    "Name": "Kushluk",
+    "ID": 702
+  },
+  {
+    "Name": "Tarkan",
+    "ID": 755
+  },
+  {
+    "Name": "Elite Tarkan",
+    "ID": 757
+  },
+  {
+    "Name": "Attila the Hun",
+    "ID": 777
+  },
+  {
+    "Name": "Bleda the Hun",
+    "ID": 779
+  },
+  {
+    "Name": "El Cid Campeador",
+    "ID": 824
+  },
+  {
+    "Name": "Henry V",
+    "ID": 847
+  },
+  {
+    "Name": "William the Conqueror",
+    "ID": 849
+  },
+  {
+    "Name": "Scythian Scout",
+    "ID": 852
+  },
+  {
+    "Name": "Magyar Huszar",
+    "ID": 869
+  },
+  {
+    "Name": "Elite Magyar Huszar",
+    "ID": 871
+  },
+  {
+    "Name": "Boyar",
+    "ID": 876
+  },
+  {
+    "Name": "Elite Boyar",
+    "ID": 878
+  },
+  {
+    "Name": "Tarkan",
+    "ID": 886
+  },
+  {
+    "Name": "Elite Tarkan",
+    "ID": 887
+  },
+  {
+    "Name": "Sundjata",
+    "ID": 1035
+  },
+  {
+    "Name": "Richard de Clare",
+    "ID": 1037
+  },
+  {
+    "Name": "Tristan",
+    "ID": 1038
+  },
+  {
+    "Name": "Babur",
+    "ID": 1070
+  },
+  {
+    "Name": "Abraha Elephant",
+    "ID": 1071
+  },
+  {
+    "Name": "Miklos Toldi",
+    "ID": 1076
+  },
+  {
+    "Name": "Zawisza the Black",
+    "ID": 1078
+  },
+  {
+    "Name": "Sumanguru",
+    "ID": 1080
+  },
+  {
+    "Name": "Battle Elephant",
+    "ID": 1132
+  },
+  {
+    "Name": "Elite Battle Elephant",
+    "ID": 1134
+  },
+  {
+    "Name": "Raden Wijaya",
+    "ID": 1159
+  },
+  {
+    "Name": "Suryavarman I",
+    "ID": 1162
+  },
+  {
+    "Name": "Bayinnaung",
+    "ID": 1165
+  },
+  {
+    "Name": "Le Lai",
+    "ID": 1180
+  },
+  {
+    "Name": "Dinh Le",
+    "ID": 1184
+  },
+  {
+    "Name": "Wang Tong",
+    "ID": 1185
+  },
+  {
+    "Name": "Envoy",
+    "ID": 1186
+  },
+  {
+    "Name": "Konnik",
+    "ID": 1225
+  },
+  {
+    "Name": "Elite Konnik",
+    "ID": 1227
+  },
+  {
+    "Name": "Keshik",
+    "ID": 1228
+  },
+  {
+    "Name": "Elite Keshik",
+    "ID": 1230
+  },
+  {
+    "Name": "Leitis",
+    "ID": 1234
+  },
+  {
+    "Name": "Elite Leitis",
+    "ID": 1236
+  },
+  {
+    "Name": "Konnik",
+    "ID": 1254
+  },
+  {
+    "Name": "Elite Konnik",
+    "ID": 1255
+  },
+  {
+    "Name": "Tokhtamysh Khan",
+    "ID": 1262
+  },
+  {
+    "Name": "Ivaylo",
+    "ID": 1265
+  },
+  {
+    "Name": "Tsar Konstantin",
+    "ID": 1266
+  },
+  {
+    "Name": "Cuman Chief",
+    "ID": 1268
+  },
+  {
+    "Name": "Vytautas the Great",
+    "ID": 1281
+  },
+  {
+    "Name": "Saladin",
+    "ID": 1296
+  },
+  {
+    "Name": "Jarl",
+    "ID": 1298
+  },
+  {
+    "Name": "Sogdian Cataphract",
+    "ID": 1299
+  },
+  {
+    "Name": "Alfred the Alpaca",
+    "ID": 1300
+  },
+  {
+    "Name": "Steppe Lancer",
+    "ID": 1370
+  },
+  {
+    "Name": "Elite Steppe Lancer",
+    "ID": 1372
+  },
+  {
+    "Name": "Mounted Samurai",
+    "ID": 1568
+  },
+  {
+    "Name": "Xolotl Warrior",
+    "ID": 1570
+  },
+  {
+    "Name": "Coustillier",
+    "ID": 1655
+  },
+  {
+    "Name": "Elite Coustillier",
+    "ID": 1657
+  },
+  {
+    "Name": "Edward Longshanks",
+    "ID": 1669
+  },
+  {
+    "Name": "Gilbert de Clare",
+    "ID": 1671
+  },
+  {
+    "Name": "John the Fearless",
+    "ID": 1673
+  },
+  {
+    "Name": "Philip the Good",
+    "ID": 1675
+  },
+  {
+    "Name": "Robert Guiscard",
+    "ID": 1677
+  },
+  {
+    "Name": "Roger Bosso",
+    "ID": 1679
+  },
+  {
+    "Name": "Bohemond",
+    "ID": 1681
+  },
+  {
+    "Name": "Bernard d’Armagnac",
+    "ID": 1687
+  },
+  {
+    "Name": "Winged Hussar",
+    "ID": 1707
+  },
+  {
+    "Name": "Jan Zizka",
+    "ID": 1713
+  },
+  {
+    "Name": "Jogaila",
+    "ID": 1718
+  },
+  {
+    "Name": "Kestutis",
+    "ID": 1721
+  },
+  {
+    "Name": "Crusader Knight",
+    "ID": 1723
+  },
+  {
+    "Name": "Algirdas",
+    "ID": 1725
+  },
+  {
+    "Name": "Ulrich von Jungingen",
+    "ID": 1727
+  },
+  {
+    "Name": "Emperor Sigismund",
+    "ID": 1729
+  },
+  {
+    "Name": "Dmitry of Moscow",
+    "ID": 1730
+  },
+  {
+    "Name": "Mikhail of Tver",
+    "ID": 1731
+  },
+  {
+    "Name": "Ratha",
+    "ID": 1738
+  },
+  {
+    "Name": "Elite Ratha",
+    "ID": 1740
+  },
+  {
+    "Name": "Shrivamsha Rider",
+    "ID": 1751
+  },
+  {
+    "Name": "Elite Shrivamsha Rider",
+    "ID": 1753
+  },
+  {
+    "Name": "Camel Scout",
+    "ID": 1755
+  },
+  {
+    "Name": "Mihira Bhoja",
+    "ID": 1762
+  },
+  {
+    "Name": "Rajendra Chola",
+    "ID": 1764
+  },
+  {
+    "Name": "General Araiyan",
+    "ID": 1766
+  },
+  {
+    "Name": "Young Babur",
+    "ID": 1768
+  },
+  {
+    "Name": "Centurion",
+    "ID": 1790
+  },
+  {
+    "Name": "Elite Centurion",
+    "ID": 1792
+  } ] }
+
+  "CavalryArchers": [
+  {
+    "Name": "Mangudai",
+    "ID": 11
+  },
+  {
+    "Name": "Cavalry Archer",
+    "ID": 39
+  },
+  {
+    "Name": "Tamerlane",
+    "ID": 172
+  },
+  {
+    "Name": "Francisco de Orellana",
+    "ID": 425
+  },
+  {
+    "Name": "Gonzalo Pizarro",
+    "ID": 427
+  },
+  {
+    "Name": "Prithviraj",
+    "ID": 437
+  },
+  {
+    "Name": "Heavy Cavalry Archer",
+    "ID": 474
+  },
+  {
+    "Name": "Elite Mangudai",
+    "ID": 561
+  },
+  {
+    "Name": "Genitour",
+    "ID": 583
+  },
+  {
+    "Name": "Elite Genitour",
+    "ID": 596
+  },
+  {
+    "Name": "Subotai",
+    "ID": 698
+  },
+  {
+    "Name": "Genghis Khan",
+    "ID": 731
+  },
+  {
+    "Name": "Conquistador",
+    "ID": 771
+  },
+  {
+    "Name": "Elite Conquistador",
+    "ID": 773
+  },
+  {
+    "Name": "War Wagon",
+    "ID": 827
+  },
+  {
+    "Name": "Elite War Wagon",
+    "ID": 829
+  },
+  {
+    "Name": "Elephant Archer",
+    "ID": 873
+  },
+  {
+    "Name": "Elite Elephant Archer",
+    "ID": 875
+  },
+  {
+    "Name": "Camel Archer",
+    "ID": 1007
+  },
+  {
+    "Name": "Elite Camel Archer",
+    "ID": 1009
+  },
+  {
+    "Name": "Genitour",
+    "ID": 1010
+  },
+  {
+    "Name": "Elite Genitour",
+    "ID": 1012
+  },
+  {
+    "Name": "Musa ibn Nusayr",
+    "ID": 1034
+  },
+  {
+    "Name": "Tariq ibn Ziyad",
+    "ID": 1036
+  },
+  {
+    "Name": "UnknownUnit1079",
+    "ID": 1079
+  },
+  {
+    "Name": "Dagnajan",
+    "ID": 1106
+  },
+  {
+    "Name": "Arambai",
+    "ID": 1126
+  },
+  {
+    "Name": "Elite Arambai",
+    "ID": 1128
+  },
+  {
+    "Name": "Tabinshwehti",
+    "ID": 1166
+  },
+  {
+    "Name": "Kipchak",
+    "ID": 1231
+  },
+  {
+    "Name": "Elite Kipchak",
+    "ID": 1233
+  },
+  {
+    "Name": "UnknownUnit1259",
+    "ID": 1259
+  },
+  {
+    "Name": "Elite Kipchak",
+    "ID": 1260
+  },
+  {
+    "Name": "UnknownUnit1261",
+    "ID": 1261
+  },
+  {
+    "Name": "Kotyan Khan",
+    "ID": 1267
+  },
+  {
+    "Name": "Girgen Khan",
+    "ID": 1269
+  },
+  {
+    "Name": "Khan",
+    "ID": 1275
+  },
+  {
+    "Name": "Urus Khan",
+    "ID": 1276
+  },
+  {
+    "Name": "Khosrau",
+    "ID": 1297
+  },
+  {
+    "Name": "Osman",
+    "ID": 1303
+  },
+  {
+    "Name": "Ratha",
+    "ID": 1759
+  },
+  {
+    "Name": "Elite Ratha",
+    "ID": 1761
+  },
+  {
+    "Name": "Qutlugh",
+    "ID": 1769
+  },
+  {
+    "Name": "Ibrahim Lodi",
+    "ID": 1771
+  },
+  {
+    "Name": "Shaybani Khan",
+    "ID": 1772
+  } ]
+
+  "SiegeWeapons": [
+  {
+    "Name": "Battering Ram",
+    "ID": 35
+  },
+  {
+    "Name": "Bombard Cannon",
+    "ID": 36
+  },
+  {
+    "Name": "Trebuchet",
+    "ID": 42
+  },
+  {
+    "Name": "Flamethrower",
+    "ID": 188
+  },
+  {
+    "Name": "Scorpion",
+    "ID": 279
+  },
+  {
+    "Name": "Mangonel",
+    "ID": 280
+  },
+  {
+    "Name": "Trebuchet (Packed)",
+    "ID": 331
+  },
+  {
+    "Name": "Capped Ram",
+    "ID": 422
+  },
+  {
+    "Name": "Petard",
+    "ID": 440
+  },
+  {
+    "Name": "Town Center (Packed)",
+    "ID": 444
+  },
+  {
+    "Name": "UnknownUnit479",
+    "ID": 479
+  },
+  {
+    "Name": "Heavy Scorpion",
+    "ID": 542
+  },
+  {
+    "Name": "Siege Ram",
+    "ID": 548
+  },
+  {
+    "Name": "Onager",
+    "ID": 550
+  },
+  {
+    "Name": "Siege Onager",
+    "ID": 588
+  },
+  {
+    "Name": "Jean de Lorrain",
+    "ID": 644
+  },
+  {
+    "Name": "Jean Bureau",
+    "ID": 650
+  },
+  {
+    "Name": "Bad Neighbor",
+    "ID": 682
+  },
+  {
+    "Name": "God's Own Sling",
+    "ID": 683
+  },
+  {
+    "Name": "Saboteur",
+    "ID": 706
+  },
+  {
+    "Name": "God's Own Sling (Packed)",
+    "ID": 729
+  },
+  {
+    "Name": "Bad Neighbor (Packed)",
+    "ID": 730
+  },
+  {
+    "Name": "Cobra Car",
+    "ID": 748
+  },
+  {
+    "Name": "Siege Tower",
+    "ID": 885
+  },
+  {
+    "Name": "Organ Gun",
+    "ID": 1001
+  },
+  {
+    "Name": "Elite Organ Gun",
+    "ID": 1003
+  },
+  {
+    "Name": "Siege Tower",
+    "ID": 1105
+  },
+  {
+    "Name": "Sharkatzor",
+    "ID": 1222
+  },
+  {
+    "Name": "Battering Ram",
+    "ID": 1258
+  },
+  {
+    "Name": "Flaming Camel",
+    "ID": 1263
+  },
+  {
+    "Name": "UnknownUnit1614",
+    "ID": 1614
+  },
+  {
+    "Name": "Warwolf Trebuchet",
+    "ID": 1690
+  },
+  {
+    "Name": "Warwolf Trebuchet (Packed)",
+    "ID": 1691
+  },
+  {
+    "Name": "Hussite Wagon",
+    "ID": 1704
+  },
+  {
+    "Name": "Elite Hussite Wagon",
+    "ID": 1706
+  },
+  {
+    "Name": "Ballista Elephant",
+    "ID": 1120
+  },
+  {
+    "Name": "Elite Ballista Elephant",
+    "ID": 1122
+  },
+  {
+    "Name": "Armored Elephant",
+    "ID": 1744
+  },
+  {
+    "Name": "Siege Elephant",
+    "ID": 1746
+  },
+  {
+    "Name": "Houfnice",
+    "ID": 1709
+  } ]
+
+  "Archers": [
+  {
+    "Name": "Archer",
+    "ID": 4
+  },
+  {
+    "Name": "Hand Cannoneer",
+    "ID": 5
+  },
+  {
+    "Name": "Elite Skirmisher",
+    "ID": 6
+  },
+  {
+    "Name": "Skirmisher",
+    "ID": 7
+  },
+  {
+    "Name": "Longbowman",
+    "ID": 8
+  },
+  {
+    "Name": "Crossbowman",
+    "ID": 24
+  },
+  {
+    "Name": "Janissary",
+    "ID": 46
+  },
+  {
+    "Name": "Royal Janissary",
+    "ID": 52
+  },
+  {
+    "Name": "Chu Ko Nu",
+    "ID": 73
+  },
+  {
+    "Name": "Slinger",
+    "ID": 185
+  },
+  {
+    "Name": "Robin Hood",
+    "ID": 200
+  },
+  {
+    "Name": "Arbalester",
+    "ID": 492
+  },
+  {
+    "Name": "Heavy Crossbowman",
+    "ID": 493
+  },
+  {
+    "Name": "Elite Longbowman",
+    "ID": 530
+  },
+  {
+    "Name": "Elite Janissary",
+    "ID": 557
+  },
+  {
+    "Name": "Elite Chu Ko Nu",
+    "ID": 559
+  },
+  {
+    "Name": "Lord de Graville",
+    "ID": 642
+  },
+  {
+    "Name": "Archer of the Eyes",
+    "ID": 686
+  },
+  {
+    "Name": "Plumed Archer",
+    "ID": 763
+  },
+  {
+    "Name": "Elite Plumed Archer",
+    "ID": 765
+  },
+  {
+    "Name": "Amazon Archer",
+    "ID": 850
+  },
+  {
+    "Name": "Genoese Crossbowman",
+    "ID": 866
+  },
+  {
+    "Name": "Elite Genoese Crossbowman",
+    "ID": 868
+  },
+  {
+    "Name": "Mustafa Pasha",
+    "ID": 1068
+  },
+  {
+    "Name": "Pacal II",
+    "ID": 1069
+  },
+  {
+    "Name": "Guglielmo Embriaco",
+    "ID": 1072
+  },
+  {
+    "Name": "Su Dingfang",
+    "ID": 1073
+  },
+  {
+    "Name": "Huayna Capac",
+    "ID": 1075
+  },
+  {
+    "Name": "Rattan Archer",
+    "ID": 1129
+  },
+  {
+    "Name": "Elite Rattan Archer",
+    "ID": 1131
+  },
+  {
+    "Name": "Imperial Skirmisher",
+    "ID": 1155
+  },
+  {
+    "Name": "Luu Nhan Chu",
+    "ID": 1182
+  },
+  {
+    "Name": "Prithvi",
+    "ID": 1294
+  },
+  {
+    "Name": "Photonman",
+    "ID": 1577
+  } ]
+
+  "Infantry": [
+  {
+    "Name": "Imperial Legionary",
+    "ID": 1
+  },
+  {
+    "Name": "Teutonic Knight",
+    "ID": 25
+  },
+  {
+    "Name": "Huskarl",
+    "ID": 41
+  },
+  {
+    "Name": "Militia",
+    "ID": 74
+  },
+  {
+    "Name": "Man-at-Arms",
+    "ID": 75
+  },
+  {
+    "Name": "Heavy Swordsman",
+    "ID": 76
+  },
+  {
+    "Name": "Long Swordsman",
+    "ID": 77
+  },
+  {
+    "Name": "Spearman",
+    "ID": 93
+  },
+  {
+    "Name": "UnknownUnit94",
+    "ID": 94
+  },
+  {
+    "Name": "UnknownUnit138",
+    "ID": 138
+  },
+  {
+    "Name": "Sheriff of Nottingham",
+    "ID": 164
+  },
+  {
+    "Name": "Charlemagne",
+    "ID": 165
+  },
+  {
+    "Name": "Theodoric the Goth",
+    "ID": 168
+  },
+  {
+    "Name": "Aethelfrith",
+    "ID": 169
+  },
+  {
+    "Name": "Siegfried",
+    "ID": 170
+  },
+  {
+    "Name": "Erik the Red",
+    "ID": 171
+  },
+  {
+    "Name": "King Arthur",
+    "ID": 173
+  },
+  {
+    "Name": "Condottiero",
+    "ID": 184
+  },
+  {
+    "Name": "Kitabatake",
+    "ID": 195
+  },
+  {
+    "Name": "Minamoto",
+    "ID": 196
+  },
+  {
+    "Name": "El Cid",
+    "ID": 198
+  },
+  {
+    "Name": "Woad Raider",
+    "ID": 232
+  },
+  {
+    "Name": "Throwing Axeman",
+    "ID": 281
+  },
+  {
+    "Name": "Samurai",
+    "ID": 291
+  },
+  {
+    "Name": "Bandit",
+    "ID": 299
+  },
+  {
+    "Name": "Cuauhtemoc",
+    "ID": 307
+  },
+  {
+    "Name": "Pikeman",
+    "ID": 358
+  },
+  {
+    "Name": "Halberdier",
+    "ID": 359
+  },
+  {
+    "Name": "Norse Warrior",
+    "ID": 361
+  },
+  {
+    "Name": "Charles Martel",
+    "ID": 424
+  },
+  {
+    "Name": "Harald Hardrada",
+    "ID": 426
+  },
+  {
+    "Name": "Hrolf the Ganger",
+    "ID": 428
+  },
+  {
+    "Name": "Frederick Barbarossa",
+    "ID": 429
+  },
+  {
+    "Name": "Joan the Maid",
+    "ID": 430
+  },
+  {
+    "Name": "William Wallace",
+    "ID": 432
+  },
+  {
+    "Name": "Francesco Sforza",
+    "ID": 439
+  },
+  {
+    "Name": "Ataulf",
+    "ID": 453
+  },
+  {
+    "Name": "Two-Handed Swordsman",
+    "ID": 473
+  },
+  {
+    "Name": "Elite Throwing Axeman",
+    "ID": 531
+  },
+  {
+    "Name": "Elite Woad Raider",
+    "ID": 534
+  },
+  {
+    "Name": "Elite Teutonic Knight",
+    "ID": 554
+  },
+  {
+    "Name": "Elite Huskarl",
+    "ID": 555
+  },
+  {
+    "Name": "Elite Samurai",
+    "ID": 560
+  },
+  {
+    "Name": "Champion",
+    "ID": 567
+  },
+  {
+    "Name": "UnknownUnit571",
+    "ID": 571
+  },
+  {
+    "Name": "UnknownUnit573",
+    "ID": 573
+  },
+  {
+    "Name": "Penguin",
+    "ID": 639
+  },
+  {
+    "Name": "La Hire",
+    "ID": 640
+  },
+  {
+    "Name": "Berserk",
+    "ID": 692
+  },
+  {
+    "Name": "Elite Berserk",
+    "ID": 694
+  },
+  {
+    "Name": "Hunting Wolf",
+    "ID": 700
+  },
+  {
+    "Name": "Topa Yupanqui",
+    "ID": 703
+  },
+  {
+    "Name": "Jaguar Warrior",
+    "ID": 725
+  },
+  {
+    "Name": "Elite Jaguar Warrior",
+    "ID": 726
+  },
+  {
+    "Name": "Cusi Yupanqui",
+    "ID": 749
+  },
+  {
+    "Name": "Eagle Scout",
+    "ID": 751
+  },
+  {
+    "Name": "Elite Eagle Warrior",
+    "ID": 752
+  },
+  {
+    "Name": "Eagle Warrior",
+    "ID": 753
+  },
+  {
+    "Name": "Huskarl",
+    "ID": 759
+  },
+  {
+    "Name": "Elite Huskarl",
+    "ID": 761
+  },
+  {
+    "Name": "Scythian Wild Woman",
+    "ID": 783
+  },
+  {
+    "Name": "Amazon Warrior",
+    "ID": 825
+  },
+  {
+    "Name": "Nobunaga",
+    "ID": 845
+  },
+  {
+    "Name": "Kamayuk",
+    "ID": 879
+  },
+  {
+    "Name": "Elite Kamayuk",
+    "ID": 881
+  },
+  {
+    "Name": "Condottiero",
+    "ID": 882
+  },
+  {
+    "Name": "Heavy Pikeman",
+    "ID": 892
+  },
+  {
+    "Name": "Eastern Swordsman",
+    "ID": 894
+  },
+  {
+    "Name": "Gbeto",
+    "ID": 1013
+  },
+  {
+    "Name": "Elite Gbeto",
+    "ID": 1015
+  },
+  {
+    "Name": "Shotel Warrior",
+    "ID": 1016
+  },
+  {
+    "Name": "Elite Shotel Warrior",
+    "ID": 1018
+  },
+  {
+    "Name": "Henry II",
+    "ID": 1040
+  },
+  {
+    "Name": "Yekuno Amlak",
+    "ID": 1064
+  },
+  {
+    "Name": "Yodit",
+    "ID": 1066
+  },
+  {
+    "Name": "Itzcoatl",
+    "ID": 1067
+  },
+  {
+    "Name": "Pachacuti",
+    "ID": 1074
+  },
+  {
+    "Name": "Little John",
+    "ID": 1077
+  },
+  {
+    "Name": "Gidajan",
+    "ID": 1109
+  },
+  {
+    "Name": "Karambit Warrior",
+    "ID": 1123
+  },
+  {
+    "Name": "Elite Karambit Warrior",
+    "ID": 1125
+  },
+  {
+    "Name": "Ninja",
+    "ID": 1145
+  },
+  {
+    "Name": "Gajah Mada",
+    "ID": 1157
+  },
+  {
+    "Name": "Sunda Royal Fighter",
+    "ID": 1160
+  },
+  {
+    "Name": "Jayaviravarman",
+    "ID": 1164
+  },
+  {
+    "Name": "Le Loi",
+    "ID": 1178
+  },
+  {
+    "Name": "Le Lai",
+    "ID": 1179
+  },
+  {
+    "Name": "Le Trien",
+    "ID": 1181
+  },
+  {
+    "Name": "Dismounted Konnik",
+    "ID": 1252
+  },
+  {
+    "Name": "Elite Dismounted Konnik",
+    "ID": 1253
+  },
+  {
+    "Name": "Ivaylo",
+    "ID": 1290
+  },
+  {
+    "Name": "Iroquois Warrior",
+    "ID": 1374
+  },
+  {
+    "Name": "Sosso Guard",
+    "ID": 1574
+  },
+  {
+    "Name": "Serjeant",
+    "ID": 1658
+  },
+  {
+    "Name": "Elite Serjeant",
+    "ID": 1659
+  },
+  {
+    "Name": "Serjeant",
+    "ID": 1660
+  },
+  {
+    "Name": "Elite Serjeant",
+    "ID": 1661
+  },
+  {
+    "Name": "Flemish Militia",
+    "ID": 1663
+  },
+  {
+    "Name": "Llywelyn ap Gruffydd",
+    "ID": 1683
+  },
+  {
+    "Name": "Dafydd ap Gruffydd",
+    "ID": 1685
+  },
+  {
+    "Name": "Flemish Militia",
+    "ID": 1697
+  },
+  {
+    "Name": "Flemish Militia",
+    "ID": 1699
+  },
+  {
+    "Name": "Obuch",
+    "ID": 1701
+  },
+  {
+    "Name": "Elite Obuch",
+    "ID": 1703
+  },
+  {
+    "Name": "Young Jadwiga",
+    "ID": 1732
+  },
+  {
+    "Name": "Urumi Swordsman",
+    "ID": 1735
+  },
+  {
+    "Name": "Elite Urumi Swordsman",
+    "ID": 1737
+  },
+  {
+    "Name": "Chakram Thrower",
+    "ID": 1741
+  },
+  {
+    "Name": "Elite Chakram Thrower",
+    "ID": 1743
+  },
+  {
+    "Name": "Ghulam",
+    "ID": 1747
+  },
+  {
+    "Name": "Elite Ghulam",
+    "ID": 1749
+  },
+  {
+    "Name": "Amoghavarsha",
+    "ID": 1763
+  },
+  {
+    "Name": "Spearman",
+    "ID": 1786
+  },
+  {
+    "Name": "Pikeman",
+    "ID": 1787
+  },
+  {
+    "Name": "Halberdier",
+    "ID": 1788
+  },
+  {
+    "Name": "Legionary",
+    "ID": 1793
+  } ]
+
+  "Warboats": [
+  {
+    "Name": "War Galley",
+    "ID": 21
+  },
+  {
+    "Name": "Leif Erikson",
+    "ID": 106
+  },
+  {
+    "Name": "Vasco da Gama",
+    "ID": 203
+  },
+  {
+    "Name": "Longboat",
+    "ID": 250
+  },
+  {
+    "Name": "Cannon Galleon",
+    "ID": 420
+  },
+  {
+    "Name": "UnknownUnit436",
+    "ID": 436
+  },
+  {
+    "Name": "UnknownUnit438",
+    "ID": 438
+  },
+  {
+    "Name": "Galleon",
+    "ID": 442
+  },
+  {
+    "Name": "Demolition Ship",
+    "ID": 527
+  },
+  {
+    "Name": "Heavy Demolition Ship",
+    "ID": 528
+  },
+  {
+    "Name": "Fire Ship",
+    "ID": 529
+  },
+  {
+    "Name": "Fast Fire Ship",
+    "ID": 532
+  },
+  {
+    "Name": "Elite Longboat",
+    "ID": 533
+  },
+  {
+    "Name": "Galley",
+    "ID": 539
+  },
+  {
+    "Name": "Transport Ship",
+    "ID": 545
+  },
+  {
+    "Name": "Elite Cannon Galleon",
+    "ID": 691
+  },
+  {
+    "Name": "Canoe",
+    "ID": 778
+  },
+  {
+    "Name": "Turtle Ship",
+    "ID": 831
+  },
+  {
+    "Name": "Elite Turtle Ship",
+    "ID": 832
+  },
+  {
+    "Name": "Admiral Yi Sun-shin",
+    "ID": 844
+  },
+  {
+    "Name": "Caravel",
+    "ID": 1004
+  },
+  {
+    "Name": "Elite Caravel",
+    "ID": 1006
+  },
+  {
+    "Name": "Fire Galley",
+    "ID": 1103
+  },
+  {
+    "Name": "Demolition Raft",
+    "ID": 1104
+  },
+  {
+    "Name": "Dragon Ship",
+    "ID": 1302
+  },
+  {
+    "Name": "The Middlebrook",
+    "ID": 1631
+  },
+  {
+    "Name": "Thirisadai",
+    "ID": 1750
+  },
+  {
+    "Name": "Dromon",
+    "ID": 1795
+  } ]
+
+  "Monks": [
+  {
+    "Name": "Stoertebeker",
+    "ID": 114
+  },
+  {
+    "Name": "Monk",
+    "ID": 125
+  },
+  {
+    "Name": "Friar Tuck",
+    "ID": 163
+  },
+  {
+    "Name": "Archbishop",
+    "ID": 177
+  },
+  {
+    "Name": "Monk with Relic",
+    "ID": 286
+  },
+  {
+    "Name": "Monk with Turkish Relic",
+    "ID": 309
+  },
+  {
+    "Name": "UnknownUnit535",
+    "ID": 535
+  },
+  {
+    "Name": "UnknownUnit536",
+    "ID": 536
+  },
+  {
+    "Name": "Missionary",
+    "ID": 775
+  },
+  {
+    "Name": "Pope Leo I",
+    "ID": 781
+  },
+  {
+    "Name": "Imam",
+    "ID": 842
+  },
+  {
+    "Name": "UnknownUnit1022",
+    "ID": 1022
+  },
+  {
+    "Name": "Priest",
+    "ID": 1023
+  },
+  {
+    "Name": "Monk with Relic",
+    "ID": 1025
+  },
+  {
+    "Name": "Bui Bi",
+    "ID": 1183
+  },
+  {
+    "Name": "Chand Bardai",
+    "ID": 1295
+  },
+  {
+    "Name": "Monk with Relic",
+    "ID": 1327
+  },
+  {
+    "Name": "Priest with Relic",
+    "ID": 1400
+  },
+  {
+    "Name": "Jadwiga",
+    "ID": 1715
+  } ]
+}

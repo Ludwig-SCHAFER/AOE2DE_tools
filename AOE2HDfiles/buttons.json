@@ -1,0 +1,59 @@
+{
+   "command_button_list": [
+      {
+         "name": "Set Gather Point",
+         "button_action_id": 51,
+         "sequence_id": 4,
+         "icon_id": 45,
+         "help_string_id": 4144,
+         "more_help_string_id": 4944
+      },
+      {
+         "name": "Remove Gather Point",
+         "button_action_id": 152,
+         "sequence_id": 4,
+         "icon_id": 46,
+         "help_string_id": 4949
+      },
+      {
+         "name": "Ungarrison All Units",
+         "button_action_id": 78,
+         "sequence_id": 9,
+         "icon_id": 2,
+         "help_string_id": 40014,
+         "more_help_string_id": 41014
+      },
+      {
+         "name": "Go Back To Work",
+         "button_action_id": 171,
+         "sequence_id": 8,
+         "icon_id": 64,
+         "help_string_id": 40015,
+         "more_help_string_id": 41015
+      },
+      {
+         "name": "More Items",
+         "button_action_id": 170,
+         "sequence_id": 14,
+         "icon_id": 32,
+         "help_string_id": 4118,
+         "more_help_string_id": 4918
+      },
+      {
+         "name": "Town Bell",
+         "button_action_id": 163,
+         "sequence_id": 14,
+         "icon_id": 49,
+         "help_string_id": 40111,
+         "more_help_string_id": 41111
+      },
+      {
+         "name": "Undo Town Bell",
+         "button_action_id": 165,
+         "sequence_id": 14,
+         "icon_id": 61,
+         "help_string_id": 40111,
+         "more_help_string_id": 41111
+      }
+   ]
+}

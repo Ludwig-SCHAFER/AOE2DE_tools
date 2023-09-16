@@ -1,0 +1,634 @@
+{
+  "Hint": "LineIDs have to be in a range of -400 and - 199",
+  "UnitLines": [
+    {
+      "Name": "Wall Line",
+      "LineID": -399,
+      "IDChain": [
+        117,
+        155
+      ]
+    },
+    {
+      "Name": "Tower Line",
+      "LineID": -398,
+      "IDChain": [
+        79,
+        234,
+        235
+      ]
+    },
+    {
+      "Name": "Archery Line",
+      "LineID": -299,
+      "IDChain": [
+        4,
+        24,
+        492
+      ]
+    },
+    {
+      "Name": "Cavalry Archer Line",
+      "LineID": -298,
+      "IDChain": [
+        39,
+        474
+      ]
+    },
+    {
+      "Name": "Skirmisher Line",
+      "LineID": -297,
+      "IDChain": [
+        7,
+        6,
+        1155
+      ]
+    },
+    {
+      "Name": "Eagle Warrior Line",
+      "LineID": -266,
+      "IDChain": [
+        751,
+        753,
+        752
+      ]
+    },
+    {
+      "Name": "Militia Line",
+      "LineID": -296,
+      "IDChain": [
+        74,
+        75,
+        77,
+        473,
+        567,
+        1793
+     ]
+    },
+    {
+      "Name": "Spearman Line",
+      "LineID": -295,
+      "IDChain": [
+        93,
+        358,
+        359
+      ]
+    },
+    {
+      "Name": "Demolition Ship Line",
+      "LineID": -294,
+      "IDChain": [
+        1104,
+        527,
+        528
+      ]
+    },
+    {
+      "Name": "Fire Ship Line",
+      "LineID": -293,
+      "IDChain": [
+        1103,
+        529,
+        532
+      ]
+    },
+    {
+      "Name": "War Galley Line",
+      "LineID": -292,
+      "IDChain": [
+        539,
+        21,
+        442
+      ]
+    },
+    {
+      "Name": "Battering Ram Line",
+      "LineID": -291,
+      "IDChain": [
+        1258,
+        35,
+        422,
+        548
+      ]
+    },
+    {
+      "Name": "Mangonel Line",
+      "LineID": -290,
+      "IDChain": [
+        280,
+        550,
+        588
+      ]
+    },
+    {
+      "Name": "Scorpion Line",
+      "LineID": -289,
+      "IDChain": [
+        279,
+        542
+      ]
+    },
+    {
+      "Name": "Camel Line",
+      "LineID": -288,
+      "IDChain": [
+        1755,
+        329,
+        330,
+        207
+      ]
+    },
+    {
+      "Name": "Knight Line",
+      "LineID": -287,
+      "IDChain": [
+        38,
+        283,
+        569
+      ]
+    },
+    {
+      "Name": "Scout Cavalry Line",
+      "LineID": -286,
+      "IDChain": [
+        448,
+        546,
+        441,
+        1707
+      ]
+    },
+    {
+      "Name": "Camel Archer Line",
+      "LineID": -285,
+      "IDChain": [
+        1007,
+        1009
+      ]
+    },
+    {
+      "Name": "Cannon Galleon Line",
+      "LineID": -284,
+      "IDChain": [
+        420,
+        691
+      ]
+    },
+    {
+      "Name": "Longboat Line",
+      "LineID": -283,
+      "IDChain": [
+        250,
+        533
+      ]
+    },
+    {
+      "Name": "Turtle Ship Line",
+      "LineID": -282,
+      "IDChain": [
+        831,
+        832
+      ]
+    },
+    {
+      "Name": "Berserker Line",
+      "LineID": -281,
+      "IDChain": [
+        692,
+        694
+      ]
+    },
+    {
+      "Name": "Cataphract Line",
+      "LineID": -280,
+      "IDChain": [
+        40,
+        553
+      ]
+    },
+    {
+      "Name": "Cho Ko Nu Line",
+      "LineID": -279,
+      "IDChain": [
+        73,
+        559
+      ]
+    },
+    {
+      "Name": "Conquistador Line",
+      "LineID": -263,
+      "IDChain": [
+        771,
+        773
+      ]
+    },
+    {
+      "Name": "Jaguar Warrior Line",
+      "LineID": -267,
+      "IDChain": [
+        725,
+        726
+      ]
+    },
+    {
+      "Name": "Huskarl Line",
+      "LineID": -278,
+      "IDChain": [
+        41,
+        555
+      ]
+    },
+    {
+      "Name": "Janissary Line",
+      "LineID": -277,
+      "IDChain": [
+        46,
+        557
+      ]
+    },
+    {
+      "Name": "Longbow Man Line",
+      "LineID": -276,
+      "IDChain": [
+        8,
+        530
+      ]
+    },
+    {
+      "Name": "Mameluke Line",
+      "LineID": -275,
+      "IDChain": [
+        282,
+        556
+      ]
+    },
+    {
+      "Name": "Mangudai Line",
+      "LineID": -274,
+      "IDChain": [
+        11,
+        561
+      ]
+    },
+    {
+      "Name": "Plumed Archer Line",
+      "LineID": -265,
+      "IDChain": [
+        763,
+        765
+      ]
+    },
+    {
+      "Name": "Samurai Line",
+      "LineID": -273,
+      "IDChain": [
+        291,
+        560
+      ]
+    },
+    {
+      "Name": "Tarkan Line",
+      "LineID": -264,
+      "IDChain": [
+        755,
+        757
+      ]
+    },
+    {
+      "Name": "Teutonic Knight Line",
+      "LineID": -272,
+      "IDChain": [
+        25,
+        554
+      ]
+    },
+    {
+      "Name": "Throwing Axeman Line",
+      "LineID": -271,
+      "IDChain": [
+        281,
+        531
+      ]
+    },
+    {
+      "Name": "War Elephant Line",
+      "LineID": -270,
+      "IDChain": [
+        239,
+        558
+      ]
+    },
+    {
+      "Name": "War Wagon Line",
+      "LineID": -269,
+      "IDChain": [
+        827,
+        829
+      ]
+    },
+    {
+      "Name": "Woad Raider Line",
+      "LineID": -268,
+      "IDChain": [
+        232,
+        534
+      ]
+    },
+    {
+      "Name": "Genoese Crossbow Line",
+      "LineID": -262,
+      "IDChain": [
+        866,
+        868
+      ]
+    },
+    {
+      "Name": "Elephant Archer Line",
+      "LineID": -261,
+      "IDChain": [
+        873,
+        875
+      ]
+    },
+    {
+      "Name": "Boyar Line",
+      "LineID": -260,
+      "IDChain": [
+        876,
+        878
+      ]
+    },
+    {
+      "Name": "Huszar Line",
+      "LineID": -259,
+      "IDChain": [
+        869,
+        871
+      ]
+    },
+    {
+      "Name": "Kamayuk Line",
+      "LineID": -258,
+      "IDChain": [
+        879,
+        881
+      ]
+    },
+    {
+      "Name": "Caravel Line",
+      "LineID": -257,
+      "IDChain": [
+        1004,
+        1006
+      ]
+    },
+    {
+      "Name": "Organ Gun Line",
+      "LineID": -256,
+      "IDChain": [
+        1001,
+        1003
+      ]
+    },
+    {
+      "Name": "Gbeto Line",
+      "LineID": -255,
+      "IDChain": [
+        1013,
+        1015
+      ]
+    },
+    {
+      "Name": "Shotel Line",
+      "LineID": -254,
+      "IDChain": [
+        1016,
+        1018
+      ]
+    },
+    {
+      "Name": "Genitour Line",
+      "LineID": -253,
+      "IDChain": [
+        1010,
+        1012
+      ]
+    },
+    {
+      "Name": "Ballista Elephant Line",
+      "LineID": -252,
+      "IDChain": [
+        1120,
+        1122
+      ]
+    },
+    {
+      "Name": "Rattan Archer Line",
+      "LineID": -251,
+      "IDChain": [
+        1129,
+        1131
+      ]
+    },
+    {
+      "Name": "Arambai Line",
+      "LineID": -250,
+      "IDChain": [
+        1126,
+        1128
+      ]
+    },
+    {
+      "Name": "Battle Elephant Line",
+      "LineID": -249,
+      "IDChain": [
+        1132,
+        1134
+      ]
+    },
+    {
+      "Name": "Karambit Warrior Line",
+      "LineID": -248,
+      "IDChain": [
+        1123,
+        1125
+      ]
+    },
+    {
+      "Name": "Konnik Line",
+      "LineID": -247,
+      "IDChain": [
+        1225,
+        1227
+      ]
+    },
+    {
+      "Name": "Krepost Konnik Line",
+      "LineID": -246,
+      "IDChain": [
+        1254,
+        1255
+      ]
+    },
+    {
+      "Name": "Foot Konnik Line",
+      "LineID": -245,
+      "IDChain": [
+        1252,
+        1253
+      ]
+    },
+    {
+      "Name": "Leitis Line",
+      "LineID": -244,
+      "IDChain": [
+        1234,
+        1236
+      ]
+    },
+    {
+      "Name": "Kipchak Line",
+      "LineID": -243,
+      "IDChain": [
+        1231,
+        1233
+      ]
+    },
+    {
+      "Name": "Keshik Line",
+      "LineID": -242,
+      "IDChain": [
+        1228,
+        1230
+      ]
+    },
+    {
+      "Name": "Steppe Lancer Line",
+      "LineID": -241,
+      "IDChain": [
+        1370,
+        1372
+      ]
+    },
+    {
+      "Name": "Coustillier Line",
+      "LineID": -240,
+      "IDChain": [
+        1655,
+        1657
+      ]
+    },
+    {
+      "Name": "Serjeant Line",
+      "LineID": -239,
+      "IDChain": [
+        1658,
+        1659
+      ]
+    },
+    {
+      "Name": "Donjon Serjeant Line",
+      "LineID": -238,
+      "IDChain": [
+        1660,
+        1661
+      ]
+    },
+    {
+      "Name": "Obuch Line",
+      "LineID": -237,
+      "IDChain": [
+        1701,
+        1703
+      ]
+    },
+    {
+      "Name": "Hussite Wagon Line",
+      "LineID": -236,
+      "IDChain": [
+        1704,
+        1706
+      ]
+    },
+    {
+      "Name": "Bombard Cannon Line",
+      "LineID": -235,
+      "IDChain": [
+        36,
+        1709
+      ]
+    },
+    {
+      "Name": "Urumi Swordsman Line",
+      "LineID": -234,
+      "IDChain": [
+        1735,
+        1737
+      ]
+    },
+    {
+      "Name": "Ratha Melee Line",
+      "LineID": -233,
+      "IDChain": [
+        1738,
+        1740
+      ]
+    },
+    {
+      "Name": "Chakram Thrower Line",
+      "LineID": -232,
+      "IDChain": [
+        1741,
+        1743
+      ]
+    },
+    {
+      "Name": "Armored Elephant Line",
+      "LineID": -231,
+      "IDChain": [
+        1744,
+        1746
+      ]
+    },
+    {
+      "Name": "Ghulam Line",
+      "LineID": -230,
+      "IDChain": [
+        1747,
+        1749
+      ]
+    },
+    {
+      "Name": "Shrivamsha Rider Line",
+      "LineID": -229,
+      "IDChain": [
+        1751,
+        1753
+      ]
+    },
+    {
+      "Name": "Ratha Ranged Line",
+      "LineID": -228,
+      "IDChain": [
+        1759,
+        1761
+      ]
+    },
+    {
+      "Name": "Donjon Spearman Line",
+      "LineID": -227,
+      "IDChain": [
+        1786,
+        1787,
+        1788
+      ]
+    },
+    {
+      "Name": "Centurion Line",
+      "LineID": -226,
+      "IDChain": [
+        1790,
+        1792
+      ]
+    }
+  ]
+}

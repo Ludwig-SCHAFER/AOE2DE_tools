@@ -1,0 +1,48 @@
+{
+   "Data": [
+      {
+         "Name": "Huskarl",
+         "Units": [ 41, 759 ]
+      },
+      {
+         "Name": "Elite Huskarl",
+         "Units": [ 555, 761 ]
+      },
+      {
+         "Name": "Tarkan",
+         "Units": [ 755, 886 ]
+      },
+      {
+         "Name": "Elite Tarkan",
+         "Units": [ 757, 887 ]
+      },
+      {
+         "Name": "Konnik",
+         "Units": [ 1225, 1254 ]
+      },
+      {
+         "Name": "Elite Konnik",
+         "Units": [ 1227, 1255 ]
+      },
+      {
+         "Name": "Serjeant",
+         "Units": [ 1658, 1660 ]
+      },
+      {
+         "Name": "Elite Serjeant",
+         "Units": [ 1659, 1661 ]
+      },
+      {
+         "Name": "Spearman",
+         "Units": [ 93, 1786 ]
+      },
+      {
+         "Name": "Pikeman",
+         "Units": [ 358, 1787 ]
+      },
+      {
+         "Name": "Halberdier",
+         "Units": [ 359, 1788 ]
+      }
+   ]
+}

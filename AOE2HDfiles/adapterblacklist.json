@@ -1,0 +1,238 @@
+{
+	"adapters" : [
+		{
+			"vendorID" : "8086",
+			"deviceID" : "116",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "8086",
+			"deviceID" : "126",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "8086",
+			"deviceID" : "112",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "8086",
+			"deviceID" : "122",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "8086",
+			"deviceID" : "102",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "8086",
+			"deviceID" : "10a",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "8086",
+			"deviceID" : "46",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "8086",
+			"deviceID" : "42",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "10de",
+			"deviceID" : "404",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "10de",
+			"deviceID" : "615",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "10de",
+			"deviceID" : "caf",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9480",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9488",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "94a0",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "944a",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "94a1",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "945a",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9598",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9505",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9498",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "954f",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "94b3",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "944c",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9440",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9441",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9442",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "9501",
+			"unsupported" : "true",
+			"noVideo" : "false"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "6760",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "6761",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "6763",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "6764",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "6765",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "aa90",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "6900",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "130e",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "1315",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "1316",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "1002",
+			"deviceID" : "1318",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		},
+		{
+			"vendorID" : "10de",
+			"deviceID" : "1cba",
+			"unsupported" : "false",
+			"noVideo" : "true"
+		}
+	]
+}

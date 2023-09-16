@@ -1,0 +1,196 @@
+{
+   "sound_list": [
+      {
+         "key": "button_select",
+         "name": "Play_Button_Select"
+      },
+      {
+         "key": "button_ui",
+         "name": "Play_Button_UI"
+      },
+      {
+         "key": "button_dropdown",
+         "name": "Play_Button_Dropdown"
+      },
+      {
+         "key": "button_gfx",
+         "name": "Play_Button_GFX"
+      },
+      {
+         "key": "button_tab",
+         "name": "Play_Button_Paper"
+      },
+      {
+         "key": "button_mouseover",
+         "name": "Play_Button_Mouseover"
+      },
+      {
+         "key": "button_soft",
+         "name": "Play_Button_Soft"
+      },
+      {
+         "key": "civ_jingle",
+         "name": "Play_Civilization_Jingle"
+      },
+      {
+         "key": "garrison",
+         "name": "Play_Garrison_Units_In"
+      },
+      {
+         "key": "ungarrison",
+         "name": "Play_Garrison_Units_Out"
+      },
+      {
+         "key": "age_up",
+         "name": "Play_Age_Up"
+      },
+      {
+         "key": "animal_found",
+         "name": "Play_Animal_Discovered"
+      },
+      {
+         "key": "artifact_found",
+         "name": "Play_Animal_Discovered"
+      },
+      {
+         "key": "player_eliminated",
+         "name": "Play_Player_Eliminated"
+      },
+      {
+         "key": "market_buy",
+         "name": "Play_Market_Buy"
+      },
+      {
+         "key": "market_sell",
+         "name": "Play_Market_Sell"
+      },
+      {
+         "key": "flare",
+         "name": "Play_Flare"
+      },
+      {
+         "key": "objectives",
+         "name": "Play_Objective_Changed"
+      },
+      {
+         "key": "tribute",
+         "name": "Play_Tribute"
+      },
+      {
+         "key": "wonder_started",
+         "name": "Play_Wonder_Started"
+      },
+      {
+         "key": "wonder_completed",
+         "name": "Play_Wonder_Completed"
+      },
+      {
+         "key": "wonder_destroyed",
+         "name": "Play_Wonder_Destroyed"
+      },
+      {
+         "key": "townbell_stop",
+         "name": "Play_Townbell_Stop"
+      },
+      {
+         "key": "error",
+         "name": "Play_Error"
+      },
+      {
+         "key": "tech_researched",
+         "name": "Play_Technology_Researched"
+      },
+      {
+         "key": "pop_capped",
+         "name": "Play_Population_Capped"
+      },
+      {
+         "key": "townbell_start",
+         "name": "Play_Townbell_Start"
+      },
+      {
+         "key": "treasure_pickup",
+         "name": "Play_Relic_Pickup"
+      },
+      {
+         "key": "notification",
+         "name": "Play_Notification"
+      },
+      {
+         "key": "capture_complete",
+         "name": "Play_Capture_Everything"
+      },
+      {
+         "key": "capture_broken",
+         "name": "Play_Capture_Broken"
+      },
+      {
+         "key": "chat",
+         "name": "Play_Chat_Received"
+      },
+      {
+         "key": "spies",
+         "name": "Play_Spy_Infiltration"
+      },
+      {
+         "key": "under_attack",
+         "name": "Play_Under_Attack"
+      },
+      {
+         "key": "under_attack_conversion",
+         "name": "Play_Monk_Attacking"
+      },
+      {
+         "key": "under_attack_town",
+         "name": "Play_Town_Under_Attack"
+      },
+      {
+         "key": "under_attack_animals",
+         "name": "Play_Animal_Attack"
+      },
+      {
+         "key": "farm_depleted",
+         "name": "Play_Farm_Depleted"
+      },
+      {
+         "key": "gatherpoint_set",
+         "name": "Play_Gatherpoint_Set"
+      },
+      {
+         "key": "got_converted",
+         "name": "Play_Monk_Convert_Complete"
+      },
+      {
+         "key": "ui_open_gate",
+         "name": "Play_Order_Gate_Open"
+      },
+      {
+         "key": "ui_close_gate",
+         "name": "Play_Order_Gate_Close"
+      },
+      {
+         "key": "revolution",
+         "name": "Play_Revolution_Declared"
+      },
+      {
+         "key": "atheism",
+         "name": "Play_Huns_Mockery"
+      },
+      {
+         "key": "defeat",
+         "name": "Play_Defeat"
+      },
+      {
+         "key": "victory",
+         "name": "Play_Victory"
+      },
+      {
+         "key": "opponent_found",
+         "name": "Play_Opponent_Found"
+      },
+      {
+         "key": "random_laugh",
+         "name": "Play_Taunt_11_Random"
+      }
+   ]
+}
